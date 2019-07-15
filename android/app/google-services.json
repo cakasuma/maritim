@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900633885147",
+    "firebase_url": "https://maritim-357e2.firebaseio.com",
+    "project_id": "maritim-357e2",
+    "storage_bucket": "maritim-357e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900633885147:android:83599afc65e6fa00",
+        "android_client_info": {
+          "package_name": "com.example.maritim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900633885147-du5r0l224bbl024dukvcv04i406g2eer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maritim",
+            "certificate_hash": "4ec55203dab8cedff68612426cada2ec66e73a28"
+          }
+        },
+        {
+          "client_id": "900633885147-5ihm15mgd9h62krpc8jibegg345vvhoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChhrjuY-CYMH1mEegeP4ktPy39mZ39LH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900633885147-5ihm15mgd9h62krpc8jibegg345vvhoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
